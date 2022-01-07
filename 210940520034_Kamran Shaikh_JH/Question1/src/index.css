@@ -1,0 +1,53 @@
+html,body{
+    
+    margin:0;
+}
+
+.parent1{
+    background-color: black;
+    height: 70px;   
+}
+
+.child1{
+    font-size: 35px;
+    color: white;
+  
+}
+
+.child2{
+    font-size: 30px;
+    color: white;
+    
+}
+
+.row{
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    display:flex;
+    height:60px;
+}
+
+.col{
+    grid-column: 9;
+    
+    
+}
+.col{
+    grid-column: 4;
+   
+   
+}
+
+.text{
+    height:50px;
+    border-radius: 7px;
+   
+    
+}
+
+.btn{
+    height:55px;
+    border-radius: 7px;
+   
+}
